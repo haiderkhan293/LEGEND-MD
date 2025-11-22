@@ -23,7 +23,7 @@
 
 ## 🌟 **SESSION LINKS** 🌟
 ### 🔷 PAIR CODE 
-[![SESSION 1](https://img.shields.io/badge/_PAIR_CODE_2-00CED1?style=for-the-badge&logo=heroku)](https://prince-bot-pair-code.koyeb.app)  
+[![SESSION 1](https://img.shields.io/badge/_PAIR_CODE_2-00CED1?style=for-the-badge&logo=heroku)](https://Legend-bot-pair-code.koyeb.app)  
 [![SESSION 2](https://img.shields.io/badge/_PAIR_CODE_3-9370DB?style=for-the-badge&logo=render)](https://shortsession.onrender.com)
 
 
