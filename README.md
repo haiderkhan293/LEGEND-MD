@@ -4,8 +4,8 @@
     <a href="">
         <img 
             alt="LEGEND BOT" 
-            width="2"
-            height="3" 
+            width="300"
+            height="720" 
             src="https://files.catbox.moe/fl6zep.jpeg" 
             style="border: 4px solid #7B68EE; 
                    border-radius: 20px; 
