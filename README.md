@@ -41,7 +41,7 @@
 
 ---
 
-## 💎 **PRINCE MD FEATURES**
+## 💎 **LEGEND MD FEATURES**
 ```diff
 🔹📖 QURAN MENU  
 🔹📥 ALL DOWNLOADER CMDS  
