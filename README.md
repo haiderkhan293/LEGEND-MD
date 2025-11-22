@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=LEGEND'S%20MD%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
     <a href="">
         <img 
             alt="LEGEND BOT" 
             width="720"
-            height="420" 
+            height="300" 
             src="https://files.catbox.moe/fl6zep.jpeg" 
             style="border: 4px solid #7B68EE; 
                    border-radius: 20px; 
