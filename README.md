@@ -80,7 +80,7 @@
 <div align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="60%"/>
   <h3 style="color: #1E90FF; font-family: 'Roboto';">⚡ POWERED BY LEGEND HAIDER⚡</h3>
-  <a href="https://github.com/DASTAGHIR/PRINCEMD/blob/main/LICENSE">
+  <a href="https://github.com/LEGEND/MDBOT/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/LICENSE-GPL3.0-00CED1?style=for-the-badge">
   </a>
 </div>
